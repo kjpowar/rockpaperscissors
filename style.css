@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#buttons button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#result {
+    margin-top: 20px;
+    min-height: 30px;
+    font-size: 1.2em;
+}
+
+#scoreboard {
+    margin-bottom: 20px;
+}
